@@ -8,7 +8,7 @@
 # All rights reserved.
 #
 
-from ERAVIBES.utils.afkdb import *
+from .afkdb import *
 from .channelplay import *
 from .database import *
 from .decorators import *
