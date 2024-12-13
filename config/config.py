@@ -76,7 +76,7 @@ LOG_GROUP_ID = (getenv("LOG_GROUP_ID", ""))
 
 # Your User ID.
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "11679112664").split())
+    map(int, getenv("OWNER_ID", "7910002246").split())
 )  # Input type must be interger
 
 
@@ -118,15 +118,15 @@ AUTO_GCAST_MSG = getenv("AUTO_GCAST_MSG", "")
 
 
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/NOBITA_ALL_BOT"
-)  # Example:- https://t.me/NOBITA_ALL_BOT
+    "SUPPORT_CHANNEL", "https://t.me/FEELING_SMILEY"
+)  # Example:- https://t.me/FEELING_SMILEY
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/NOBITA_SUPPORT"
-)  # Example:- https://t.me/NOBITA_SUPPORT
+    "SUPPORT_GROUP", "https://t.me/FRIENSHIP_CLUB_GROUP"
+)  # Example:- https://t.me/FEELING_SMILEY
 
 SUPPORT_CHAT = getenv(
-    "SUPPORT_GROUP", "https://t.me/NOBITA_SUPPORT"
-)  # Example:- https://t.me/NOBITA_SUPPORT
+    "SUPPORT_GROUP", "https://t.me/FRIENSHIP_CLUB_GROUP"
+)  # Example:- https://t.me/FEELING_SMILEY
 
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", False)
