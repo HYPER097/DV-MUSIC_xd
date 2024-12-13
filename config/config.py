@@ -221,67 +221,67 @@ autoclean = []
 
 START_IMG_URL = getenv(
     "START_IMG_URL",
-    "https://envs.sh/ZK5.jpg",
+    "https://graph.org/file/5b419eb49d76f4653ce32-913ded50f55521447f.jpg",
 )
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://envs.sh/ZK5.jpg",
+    "https://graph.org/file/ac82dc8e3ad1a6be4c3ae-2ca3416c97e2043819.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "https://envs.sh/ZK5.jpg",
+    "https://graph.org/file/41f751a765fc1d99dd727-e5365b832d189dee29.jpg",
 )
 
 GLOBAL_IMG_URL = getenv(
     "GLOBAL_IMG_URL",
-    "https://envs.sh/ZK5.jpg",
+    "https://graph.org/file/41f751a765fc1d99dd727-e5365b832d189dee29.jpg",
 )
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "https://envs.sh/ZK5.jpg",
+    "https://graph.org/file/41f751a765fc1d99dd727-e5365b832d189dee29.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
     "TELEGRAM_AUDIO_URL",
-    "https://envs.sh/ZK5.jpg",
+    "https://graph.org/file/41f751a765fc1d99dd727-e5365b832d189dee29.jpg",
 )
 
 TELEGRAM_VIDEO_URL = getenv(
     "TELEGRAM_VIDEO_URL",
-    "https://envs.sh/ZK5.jpg",
+    "https://graph.org/file/41f751a765fc1d99dd727-e5365b832d189dee29.jpg",
 )
 
 STREAM_IMG_URL = getenv(
     "STREAM_IMG_URL",
-    "https://envs.sh/ZK5.jpg",
+    "https://graph.org/file/41f751a765fc1d99dd727-e5365b832d189dee29.jpg",
 )
 
 SOUNCLOUD_IMG_URL = getenv(
     "SOUNCLOUD_IMG_URL",
-    "https://envs.sh/ZK5.jpg",
+    "https://graph.org/file/41f751a765fc1d99dd727-e5365b832d189dee29.jpg",
 )
 
 YOUTUBE_IMG_URL = getenv(
     "YOUTUBE_IMG_URL",
-    "https://envs.sh/ZK5.jpg",
+    "https://graph.org/file/41f751a765fc1d99dd727-e5365b832d189dee29.jpg",
 )
 
 SPOTIFY_ARTIST_IMG_URL = getenv(
     "SPOTIFY_ARTIST_IMG_URL",
-    "https://envs.sh/ZK5.jpg",
+    "https://graph.org/file/41f751a765fc1d99dd727-e5365b832d189dee29.jpg",
 )
 
 SPOTIFY_ALBUM_IMG_URL = getenv(
     "SPOTIFY_ALBUM_IMG_URL",
-    "https://envs.sh/ZK5.jpg",
+    "https://graph.org/file/41f751a765fc1d99dd727-e5365b832d189dee29.jpg",
 )
 
 SPOTIFY_PLAYLIST_IMG_URL = getenv(
     "SPOTIFY_PLAYLIST_IMG_URL",
-    "https://envs.sh/ZK5.jpg",
+    "https://graph.org/file/41f751a765fc1d99dd727-e5365b832d189dee29.jpg",
 )
 
 
